@@ -1,0 +1,55 @@
+body{
+    background-image:url("./OIP.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parent {
+    display: flex;
+    flex-wrap: wrap;
+}
+/*  .box{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between 20px;
+}  */
+.pf{
+    display: flex;
+    flex-wrap: wrap;
+ /*   justify-content: space-between ;*/}
+ .fav{
+    margin-left: 100px;
+ }
+.trash{
+    /*text-align: center;*/
+    margin-left: 260px;
+}
+.moins{
+    background-color:#6bb39b;
+    border-radius :4px;
+
+}
+.plus{
+    background-color:
+    border-radius :4px;
+}
+.titre{
+    color:#cf001a;
+    text-align: center;
+
+}
+.contact{
+    display: flex;
+    flex-direction: column;
+    color:black;
+}
+.v,.tot{
+    color:#6bb39b
+}
+.bas{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.title1, .c{
+    color: #cf001a;
+}
